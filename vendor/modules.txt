@@ -1,0 +1,39 @@
+# github.com/boltdb/bolt v1.3.1
+## explicit
+github.com/boltdb/bolt
+# github.com/goji/goji v2.0.2+incompatible
+## explicit
+# github.com/google/uuid v1.1.1
+## explicit
+github.com/google/uuid
+# github.com/muesli/smartcrop v0.3.0
+## explicit
+github.com/muesli/smartcrop
+github.com/muesli/smartcrop/nfnt
+github.com/muesli/smartcrop/options
+# github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
+## explicit
+github.com/nfnt/resize
+# github.com/oliamb/cutter v0.2.2
+## explicit
+github.com/oliamb/cutter
+# github.com/rs/zerolog v1.19.0
+## explicit
+github.com/rs/zerolog
+github.com/rs/zerolog/internal/cbor
+github.com/rs/zerolog/internal/json
+github.com/rs/zerolog/log
+# goji.io v2.0.2+incompatible
+## explicit
+goji.io
+goji.io/internal
+goji.io/pat
+goji.io/pattern
+# golang.org/x/image v0.0.0-20200801110659-972c09e46d76
+## explicit
+golang.org/x/image/draw
+golang.org/x/image/math/f64
+# golang.org/x/sys v0.0.0-20200817155316-9781c653f443
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
